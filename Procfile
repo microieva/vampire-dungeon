@@ -1,1 +1,2 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* vampire-dungeon
+
+web: java -jar target/vampire-dungeon-1.0.jar
